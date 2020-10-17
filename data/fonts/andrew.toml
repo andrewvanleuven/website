@@ -1,0 +1,15 @@
+# Font style metadata
+name = "andrew"
+
+# Optional Google font URL
+google_fonts = "Fira+Sans:300,500|Fira+Sans+Condensed:400,400italic,600|Fira+Mono:500"
+
+# Font families
+heading_font = "Fira Sans"
+body_font = "Fira Sans Condensed"
+nav_font = "Fira Mono"
+mono_font = "Fira Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
