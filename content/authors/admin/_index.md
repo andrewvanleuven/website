@@ -20,7 +20,7 @@ organizations:
   url: "http://osu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
 - Economic Development Policy
@@ -47,18 +47,23 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
+  icon_pack: far
   link: 'mailto:vanleuven.3@osu.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: http://linkedin.com/in/andrewvanleuven/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=itpo_JcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/andrewvanleuven
-# Link to a PDF of your resume/CV from the About widget.
+- icon: linkedin-in
+  icon_pack: fab
+  link: http://linkedin.com/in/andrewvanleuven/
+#- icon: city
+#  icon_pack: fas
+#  link: http://glenn.osu.edu/phd-students/van-leuven/
+
+
+    # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
