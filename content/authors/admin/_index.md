@@ -55,12 +55,16 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/andrewvanleuven
+- icon: ssrn
+  icon_pack: ai
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2929472
 - icon: linkedin-in
   icon_pack: fab
   link: http://linkedin.com/in/andrewvanleuven/
+
 #- icon: city
 #  icon_pack: fas
-#  link: http://glenn.osu.edu/phd-students/van-leuven/
+#  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2929472
 
 
     # Link to a PDF of your resume/CV from the About widget.

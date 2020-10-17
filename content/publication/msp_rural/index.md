@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Renovating Smaller Central Business Districts: The Impact of Main Street Revitalization on Rural Job Growth"
+title: "The Impact of Main Street Revitalization on Rural Downtown Job Growth"
 authors: ["admin"]
 date: 2020-10-02
 doi: ""
