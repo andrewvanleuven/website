@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Local Economic Revitalization"
+title: "Data Science & Visualization"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-10-17T05:05:47-04:00
+date: 2020-10-17T05:03:47-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

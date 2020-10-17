@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "These are the various topic areas that I am currently researching."
 
 [content]
   # Page type to display. E.g. project.
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true

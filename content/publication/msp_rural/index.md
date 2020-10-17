@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Impact of Main Street Revitalization on Rural Job Growth"
+title: "Renovating Smaller Central Business Districts: The Impact of Main Street Revitalization on Rural Job Growth"
 authors: ["admin"]
-date:
+date: 2020-10-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-16T03:24:05-04:00
+publishDate: 2020-10-02
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

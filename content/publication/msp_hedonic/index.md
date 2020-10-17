@@ -3,11 +3,11 @@
 
 title: "Leveraging Main Street as a Real Estate Amenity: The Impact of Retail Corridor Revitalization on Residential Property Values"
 authors: ["admin"]
-date:
+date: 2020-10-03
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-16T03:23:46-04:00
+publishDate: 2020-10-03
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

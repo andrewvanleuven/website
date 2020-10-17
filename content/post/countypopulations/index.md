@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [datasci]
 ---
 These data---1900 to 1990 county populations---come from the U.S. Census ([link](https://www.census.gov/population/www/censusdata/cencounts/index.html)) but have not historically been available in tabular form. I wrote a custom R script[^1] which converted the individual state-level .txt files from this Census webpage into usable .csv files. The county population data for 2000 and 2010 were collected using Kyle Walker's excellent [`tidycensus`](https://github.com/walkerke/tidycensus) package.
 

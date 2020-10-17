@@ -3,11 +3,11 @@
 
 title: "Regional Economic Resilience After the Great Recession: The Economic Performance of U.S. Metropolitan Statistical Areas"
 authors: [Edward W. Hill, "admin"]
-date:
+date: 2020-09-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-16T03:24:41-04:00
+publishDate: 2020-09-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

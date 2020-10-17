@@ -3,11 +3,11 @@
 
 title: "Legacy Regions, Not Legacy Cities: Growth and Decline in City-Centered Regional Economies"
 authors: ["admin", Edward W. Hill]
-date:
+date: 2020-10-04
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-16T03:24:22-04:00
+publishDate: 2020-10-04
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

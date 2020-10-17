@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 58  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "Published: 0 </br> Under Review: 2 </br> In Progress: 3+"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
