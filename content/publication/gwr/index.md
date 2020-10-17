@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: "*Under Review*"
 publication_short: ""
 
-abstract: ""
+abstract: "In response to the 2007-2010 mortgage crisis, government intervention in the housing market was driven in part by research showing that foreclosures lower neighboring housing values and thus increase neighbors’ risk of foreclosure. Researchers have consistently identified a negative spillover effect of foreclosures on nearby housing values, but the magnitude of the effect varies widely across studies. While this variation is due, in part, to differences in the geographic region, time period, and empirical strategy of prior research, we argue that the spillover effect on nearby housing prices exhibits hyper-local variation which may be obscured by models that aggregate spillover effect estimates within existing geographic units. In this paper, we employ geographically weighted regression (GWR) to capture the extent of spatial and temporal variation of foreclosure spillover effects in three Ohio metropolitan statistical areas. We find extensive heterogeneity of foreclosure spillover effect estimates over time and across space, suggesting that such spillovers perhaps should not be thought of as universal phenomena. These findings raise the possibility that policies and programs designed to intervene in the housing market analyze and use local variation in the negative externalities of foreclosure to best target scarce resources within and across communities."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: " "
 
 tags: []
 categories: []
