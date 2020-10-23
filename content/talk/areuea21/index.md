@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Leveraging Main Street as a Real Estate Amenity: The Impact of Retail Corridor Revitalization on Residential Property Values"
+title: "Leveraging Main Street as a Real Estate Amenity: Retail Corridor Revitalization and Residential Property Values"
 event: "American Real Estate and Urban Economics Association (AREUEA) January Meeting"
 event_url:
 location: "Virtual"
