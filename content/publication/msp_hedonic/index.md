@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Leveraging Main Street as a Real Estate Amenity: The Impact of Retail Corridor Revitalization on Residential Property Values"
+title: "Leveraging Main Street as a Real Estate Amenity: Retail Corridor Revitalization and Residential Property Values"
 authors: ["admin"]
 date: 2020-10-03
 doi: ""
