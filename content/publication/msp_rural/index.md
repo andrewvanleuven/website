@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Impact of Main Street Revitalization on Rural Downtown Job Growth"
+title: "The Impact of Main Street Revitalization on Small-Town Business Districts"
 authors: ["admin"]
-date: 2020-10-02
+date: 2020-10-31
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-02
+publishDate: 2020-10-31
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2020-10-02
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*In Progress*"
+publication: "*Under Review*"
 publication_short: ""
 
-abstract: "Seen as a potential remedy for decades of disinvestment and physical deterioration in historic town centers, the Main Street Program is a smaller-scale economic development approach that has been adopted by hundreds of communities throughout the rural United States. In this paper, I use longitudinal business establishment data to evaluate the viability of the Main Street Program as a means of rural downtown revitalization. I implement a difference-in-differences design which estimates the program's causal impact on job growth in the downtown retail district."
+abstract: "The Main Street Program is a popular smaller-scale economic development strategy used to revitalize historic town centers across the rural United States. In this paper, I implement a difference-in-differences design using longitudinal business establishment data to estimate the program’s causal impact on job growth in downtown retail districts. Using a pooled sample of four Midwest states, I find no significant effect of Main Street Program adoption on downtown jobs or establishments. However, when I focus on each state individually, a substantial degree of structural heterogeneity across states exists. Specifically, while the other three states demonstrate inconsistent effects in response to program adoption, Iowa emerges as a state where the Main Street Program appears to yield its hypothesized economic benefits to the downtown business districts of participating communities. These findings suggest that Main Street Program participation effects are not generalizable across states and that implementation and local context matter."
 
 # Summary. An optional shortened abstract.
 summary: " "
@@ -28,13 +28,11 @@ tags: []
 categories: []
 featured: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+  - icon_pack:
+    icon:
+    name: Working Paper (available by request)
+    url: "mailto:vanleuven.3@osu.edu?subject=Working Paper Request"
 
 url_pdf:
 url_code: "https://github.com/andrewvanleuven/mainstreet"
