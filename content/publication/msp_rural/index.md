@@ -31,7 +31,7 @@ featured: false
 links:
   - icon_pack:
     icon:
-    name: Working Paper (available by request)
+    name: Request Working Paper
     url: "mailto:vanleuven.3@osu.edu?subject=Working Paper Request"
 
 url_pdf:
