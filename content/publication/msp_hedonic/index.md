@@ -3,11 +3,11 @@
 
 title: "Leveraging Main Street as a Real Estate Amenity: Retail Corridor Revitalization and Residential Property Values"
 authors: ["admin"]
-date: 2020-10-03
+date: 2021-01-20
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-03
+publishDate: 2021-01-20
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2020-10-03
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*In Progress*"
+publication: "*Under Review*"
 publication_short: ""
 
-abstract: "Downtown revitalization has become a nearly ubiquitous undertaking throughout the municipal landscape of the United States. In the hope of curtailing the effects of twentieth-century downtown disinvestment, suburbanization, and deindustrialization, local coalitions of public and private stakeholders have decided to reverse these trends and restore the vitality and character of their historic business districts. One such endeavor, the Main Street Program, equips smaller towns and cities with the resources and know-how to leverage their dense, walkable retail corridor(s) as an economic development asset. In this paper, I look at the relationship between active Main Street Programs in Ohio and the sale prices of nearby residential properties, specifically focusing on the property's distance to its respective downtown, or Main Street district. I find that home sale prices are higher for properties sold in a community that actively participates in the Main Street Program. Furthermore, I find that there is an additional premium in the sale price for properties that are located in close proximity to a downtown business district with an active Main Street Program."
+abstract: "As part of their efforts to reverse the effects of twentieth-century downtown disinvestment and automobile-oriented development, stakeholders in small towns across the United States look for viable means of restoring the vitality and character of their historic business districts. In this paper, I evaluate a widely adopted downtown revitalization strategy—the Main Street Program—by measuring its influence on the local housing market. I find that home sale prices are higher for residential properties sold in program-participating communities, and I observe an additional sale price premium for homes located in closer proximity to downtown districts with an active Main Street Program."
 
 # Summary. An optional shortened abstract.
 summary: " "
@@ -28,11 +28,11 @@ tags: []
 categories: []
 featured: false
 
-links:
-  - icon_pack:
-    icon:
-    name: Working Paper
-    url: "/files/papers/wp_msprealestate.pdf"
+# links:
+#   - icon_pack:
+#     icon:
+#     name: Working Paper
+#     url: "/files/papers/wp_msprealestate.pdf"
 
 
 url_pdf:
