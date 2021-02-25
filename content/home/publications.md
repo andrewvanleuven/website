@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 58  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = "Published: 1 </br> Under Review: 2 </br> In Progress: 2+"
+title = "Peer-Reviewed Research"
+subtitle = "Published: 1 </br> Under Review: 3 </br> In Progress: 3+"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
