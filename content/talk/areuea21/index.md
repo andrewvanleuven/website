@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "/files/slides/areuea_poster_2021.pdf"
+url_poster: "/files/slides/areuea_poster_2021.pdf"
 url_code:
 url_pdf:
 url_video:

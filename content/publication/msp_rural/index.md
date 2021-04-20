@@ -3,7 +3,7 @@
 
 title: "The Impact of Main Street Revitalization on Small-Town Business Districts"
 authors: ["admin"]
-date: 2021-02-13
+date: 2021-04-13
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2021-02-13
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under Review (R&R)*"
+publication: "Accepted at *Economic Development Quarterly*"
 publication_short: ""
 
 abstract: "The Main Street Program is a popular smaller-scale economic development strategy used to revitalize historic town centers across the rural United States. In this paper, I implement a difference-in-differences design using longitudinal business establishment data to estimate the program’s causal impact on job growth in downtown retail districts. Using a pooled sample of four Midwest states, I find no significant effect of Main Street Program adoption on downtown jobs or establishments. However, when I focus on each state individually, a substantial degree of structural heterogeneity across states exists. Specifically, while the other three states demonstrate inconsistent effects in response to program adoption, Iowa emerges as a state where the Main Street Program appears to yield its hypothesized economic benefits to the downtown business districts of participating communities. These findings suggest that Main Street Program participation effects are not generalizable across states and that implementation and local context matter."

@@ -31,8 +31,8 @@ featured: false
 links:
   - icon_pack:
     icon:
-    name: Working Paper
-    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3575879"
+    name: Publication
+    url: "https://www.tandfonline.com/doi/abs/10.1080/10511482.2021.1882533?journalCode=rhpd20"
 
 url_pdf:
 url_code:
