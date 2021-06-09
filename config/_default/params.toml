@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "ajvl"
+theme = "mizzou"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -88,7 +88,7 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "vanleuven.3@osu.edu"
+email = "avanleuven@missouri.edu"
 phone = "614 822 7315"
 
 # Address
@@ -97,7 +97,7 @@ phone = "614 822 7315"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.999273", longitude = "-83.009507"}
+coordinates = {latitude = "38.946061880749326", longitude = "-92.32523859546252"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -114,7 +114,7 @@ coordinates = {latitude = "39.999273", longitude = "-83.009507"}
 contact_links = [
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "github-square", icon_pack = "fab", name = "GitHub", link = "https://github.com/andrewvanleuven"},
-  {icon = "map-marked-alt", icon_pack = "fas", name = "310 Page Hall, 1810 College Road, Columbus, OH 43210", link = "http://glenn.osu.edu/phd-students/van-leuven/"}
+  {icon = "map-marked-alt", icon_pack = "fas", name = "226A Mumford Hall, 1100 University Ave, Columbia MO 65201", link = "http://glenn.osu.edu/phd-students/van-leuven/"}
   ]
 
 ############################
@@ -262,7 +262,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = ""
-  zoom = 18
+  zoom = 17
 
 ############################
 ## Marketing

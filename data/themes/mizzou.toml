@@ -1,0 +1,25 @@
+# Theme metadata
+name = "mizzou"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#000000"
+primary_light = "#F1B82D"
+primary_dark = "#F1B82D"
+
+# Menu
+menu_primary = "#000000" # 500
+menu_text = "#F1B82D"
+menu_text_active = "#FFFFFF" # A100
+menu_title = "#F1B82D"
+
+# Backgrounds
+background = "#FFFFFF"
+home_section_odd = "#d8d8d8"
+home_section_even = "#ebebeb"
+
+# font = "rose"
+link = "#000000"
+link_hover = "#F1B82D"

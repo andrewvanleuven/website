@@ -10,30 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate & Researcher
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: John Glenn College of Public Affairs
-  url: "http://glenn.osu.edu"
-- name: The Ohio State University
-  url: "http://osu.edu"
+- name: College of Agriculture, Food and Natural Resources (CAFNR)
+  url: "https://cafnr.missouri.edu/"
+- name: University of Missouri
+  url: "https://missouri.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Economic Development Policy
+- Economic Revitalization
 - Urban & Regional Planning
-- Local Public Management
+- Public Administration
 - Regional Science
+- Rural Community Development
 - Data Science & Visualization
 
 education:
   courses:
-#  - course: PhD in Public Policy & Management
-#    institution: Ohio State University
-#    year: 2021
+  - course: Ph.D. in Public Policy & Management
+    institution: Ohio State University
+    year: 2021
   - course: M.A. in Geography & Urban Studies
     institution: Temple University
     year: 2016
@@ -48,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: far
-  link: 'mailto:vanleuven.3@osu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:avanleuven@missouri.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=itpo_JcAAAAJ&hl=en
