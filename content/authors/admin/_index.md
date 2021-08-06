@@ -16,8 +16,6 @@ role: Postdoctoral Fellow
 organizations:
 - name: College of Agriculture, Food and Natural Resources (CAFNR)
   url: "https://cafnr.missouri.edu/person/andrew-van-leuven"
-- name: MU Extension - Regional Economic & Entrepreneurial Development
-  url: "https://extension.missouri.edu/people/andrew-van-leuven"
 - name: University of Missouri
   url: "https://missouri.edu/"
 
@@ -89,4 +87,4 @@ user_groups:
 #- Visitors
 ---
 
-I am a [postdoctoral fellow](https://cafnr.missouri.edu/person/andrew-van-leuven) at the College of Agriculture, Food, and Natural Resources at the University of Missouri. I work with Dr. Sarah Low at the Division of Social Sciences on research and Extension programming centered around regional economic & entrepreneurial development ([MU Exceed](https://extension.missouri.edu/programs/exceed-community-economic-and-entrepreneurial-development)). I am working on a variety of different projects in different topic areas, ranging from small-town economic revitalization to business dynamics and local entrepreneurship. I earned my Ph.D. in public policy & management from the John Glenn College of Public Affairs (Ohio State University).
+I am a [postdoctoral fellow](https://cafnr.missouri.edu/person/andrew-van-leuven) at the College of Agriculture, Food, and Natural Resources at the University of Missouri. I work with Dr. Sarah Low at the Division of Social Sciences on research and [Extension](https://extension.missouri.edu/people/andrew-van-leuven) programming centered around regional economic & entrepreneurial development ([MU Exceed](https://extension.missouri.edu/programs/exceed-community-economic-and-entrepreneurial-development)). I am working on a variety of different projects in different topic areas, ranging from small-town economic revitalization to business dynamics and local entrepreneurship. I earned my Ph.D. in public policy & management from the John Glenn College of Public Affairs (Ohio State University).
