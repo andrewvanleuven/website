@@ -15,7 +15,9 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations
 organizations:
 - name: College of Agriculture, Food and Natural Resources (CAFNR)
-  url: "https://cafnr.missouri.edu/"
+  url: "https://cafnr.missouri.edu/person/andrew-van-leuven"
+- name: MU Extension - Regional Economic and Entrepreneurial Development (Exceed)
+  url: "https://extension.missouri.edu/people/andrew-van-leuven"
 - name: University of Missouri
   url: "https://missouri.edu/"
 
