@@ -26,7 +26,7 @@ summary: " "
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 links:
   - icon_pack:
@@ -34,7 +34,7 @@ links:
     name: Publication
     url: "https://journals.sagepub.com/doi/10.1177/08912424211038060"
 
-url_pdf:
+url_pdf: "/files/papers/wp_msp2021.pdf"
 url_code: "https://github.com/andrewvanleuven/mainstreet"
 url_dataset:
 url_poster:
@@ -47,8 +47,8 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Main Street in Ottumwa, Iowa"
+  focal_point: "Bottom"
   preview_only: false
 
 # Associated Projects (optional).
