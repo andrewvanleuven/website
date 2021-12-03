@@ -10,25 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor of Rural Community Development
 
 # Organizations/Affiliations
 organizations:
-- name: College of Agriculture, Food and Natural Resources (CAFNR)
-  url: "https://cafnr.missouri.edu/person/andrew-van-leuven"
-- name: University of Missouri
-  url: "https://missouri.edu/"
+- name: Dept. of Agricultural Economics
+  url: "https://agriculture.okstate.edu/departments-programs/agecon/index.html"
+- name: Oklahoma State University
+  url: "https://okstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
 - Economic Revitalization
-- Urban & Regional Planning
-- Public Administration
 - Regional Science
 - Rural Community Development
 - Data Science & Visualization
+- Urban & Regional Planning
+- Public Administration
 
 education:
   courses:
@@ -87,4 +87,4 @@ user_groups:
 #- Visitors
 ---
 
-I am a [postdoctoral fellow](https://cafnr.missouri.edu/person/andrew-van-leuven) at the College of Agriculture, Food, and Natural Resources at the University of Missouri. I work with Dr. Sarah Low at the Division of Social Sciences on research and [Extension](https://extension.missouri.edu/people/andrew-van-leuven) programming centered around regional economic & entrepreneurial development ([MU Exceed](https://extension.missouri.edu/programs/exceed-community-economic-and-entrepreneurial-development)). I am working on a variety of different projects in different topic areas, ranging from small-town economic revitalization to business dynamics and local entrepreneurship. I earned my Ph.D. in public policy & management from the John Glenn College of Public Affairs (Ohio State University).
+I am an Assistant Professor of Rural Community Development in the [Department of Agricultural Economics](https://agriculture.okstate.edu/departments-programs/agecon/index.html) at Oklahoma State University. I share my time between both research and [Extension](https://extension.okstate.edu/topics/business-and-community/community-and-rural-improvement/index.html) programming centered around regional economic development, downtown revitalization, and small business development. I earned my Ph.D. in public policy & management from the John Glenn College of Public Affairs (Ohio State University).

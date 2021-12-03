@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 58  # Order that this section will appear.
 
 title = "Peer-Reviewed Research"
-subtitle = "Published: 2 </br> Under Review: 3 </br> In Progress: 3+"
+subtitle = "Published: 3 </br> Under Review: 2"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

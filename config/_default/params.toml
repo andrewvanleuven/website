@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "mizzou"
+theme = "pokes"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -114,7 +114,7 @@ coordinates = {latitude = "38.946061880749326", longitude = "-92.32523859546252"
 contact_links = [
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "github-square", icon_pack = "fab", name = "GitHub", link = "https://github.com/andrewvanleuven"},
-  {icon = "map-marked-alt", icon_pack = "fas", name = "226A Mumford Hall, 1100 University Ave, Columbia MO 65201", link = "http://glenn.osu.edu/phd-students/van-leuven/"}
+  {icon = "map-marked-alt", icon_pack = "fas", name = "530 Agricultural Hall, Stillwater, OK 74078", link = "http://glenn.osu.edu/phd-students/van-leuven/"}
   ]
 
 ############################

@@ -1,0 +1,25 @@
+# Theme metadata
+name = "pokes"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#FF7300"
+primary_light = "#666666"
+primary_dark = "#666666"
+
+# Menu
+menu_primary = "#000000" # 500
+menu_text = "#FF7300"
+menu_text_active = "#ffffff" # A100
+menu_title = "#FF7300"
+
+# Backgrounds
+background = "#FFFFFF"
+home_section_odd = "rgb(235, 235, 235)"
+home_section_even = "rgb(245, 245, 245)"
+
+# font = "rose"
+link = "#FF7300"
+link_hover = "#000000"
