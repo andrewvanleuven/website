@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: far
-  link: 'mailto:avanleuven@missouri.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:andrew.vanleuven@okstate.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=itpo_JcAAAAJ&hl=en
