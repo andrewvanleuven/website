@@ -88,16 +88,16 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "avanleuven@missouri.edu"
-phone = "614 822 7315"
+email = "andrew.vanleuven@okstate.edu"
+phone = "405 744 6854"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-#address = {street = "310 Page Hall, 1810 College Road N", city = "Columbus", region = "OH", postcode = "43210", country = "United States", country_code = "US"}
+address = {street = "530 Agricultural Hall", city = "Stillwater", region = "OK", postcode = "74078", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.946061880749326", longitude = "-92.32523859546252"}
+coordinates = {latitude = "36.12373501765852", longitude = "-97.07227067585755"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
