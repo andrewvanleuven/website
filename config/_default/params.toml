@@ -93,7 +93,7 @@ phone = "405 744 6854"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "530 Agricultural Hall", city = "Stillwater", region = "OK", postcode = "74078", country = "United States", country_code = "US"}
+# address = {street = "530 Agricultural Hall", city = "Stillwater", region = "OK", postcode = "74078", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -114,7 +114,7 @@ coordinates = {latitude = "36.12373501765852", longitude = "-97.07227067585755"}
 contact_links = [
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "github-square", icon_pack = "fab", name = "GitHub", link = "https://github.com/andrewvanleuven"},
-  {icon = "map-marked-alt", icon_pack = "fas", name = "530 Agricultural Hall, Stillwater, OK 74078", link = "http://glenn.osu.edu/phd-students/van-leuven/"}
+  {icon = "map-marked-alt", icon_pack = "fas", name = "530 Agricultural Hall, Stillwater, OK 74078", link = "https://agriculture.okstate.edu/"}
   ]
 
 ############################
