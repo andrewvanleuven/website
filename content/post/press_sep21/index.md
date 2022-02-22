@@ -5,7 +5,7 @@ title: "Good Press: Coverage of my Recent EDQ Article"
 subtitle: ""
 summary: " "
 authors: []
-tags: []
+tags: [post]
 categories: []
 date: 2021-09-13T16:38:54-05:00
 lastmod: 2021-09-13T16:38:54-05:00
@@ -28,7 +28,7 @@ image:
 projects: [revitalization]
 ---
 
-I was recently interviewed by Clark Merrefield (reporter for Harvard Kennedy School's *Journalist's Resource*) about my economic revitalization research paper [pubished in EDQ](https://doi.org/10.1177/08912424211038060). 
+I was recently interviewed by Clark Merrefield (reporter for Harvard Kennedy School's *Journalist's Resource*) about my economic revitalization research paper [pubished in EDQ](https://doi.org/10.1177/08912424211038060).
 
 Click [**here**](https://journalistsresource.org/politics-and-government/main-street-revitalization-jobs/) to read the article.
 

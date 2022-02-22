@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Rural Community Development
+role: Assistant Professor of Community and Rural Development
 
 # Organizations/Affiliations
 organizations:
-- name: Dept. of Agricultural Economics
+- name: Department of Agricultural Economics
   url: "https://agriculture.okstate.edu/departments-programs/agecon/index.html"
 - name: Oklahoma State University
   url: "https://okstate.edu/"

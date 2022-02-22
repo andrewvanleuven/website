@@ -5,7 +5,7 @@ title: "Generating Shapefiles for Principal Cities in U.S. Core-Based Statistica
 subtitle: ""
 summary: " "
 authors: []
-tags: []
+tags: [post]
 categories: []
 date: 2020-07-23T16:38:54-05:00
 lastmod: 2020-07-23T16:38:54-05:00

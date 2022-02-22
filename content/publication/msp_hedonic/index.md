@@ -3,11 +3,11 @@
 
 title: "Leveraging Main Street as a Real Estate Amenity: Retail Corridor Revitalization and Residential Property Values"
 authors: ["admin"]
-date: 2021-01-20
+date: 2022-01-20
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-01-20
+publishDate: 2022-01-20
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2021-01-20
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under Review (R&R)*"
+publication: "*Journal of Planning Education and Research (in press)*"
 publication_short: ""
 
 abstract: "As part of their efforts to reverse the effects of twentieth-century downtown disinvestment and automobile-oriented development, stakeholders in small towns across the United States look for viable means of restoring the vitality and character of their historic business districts. In this paper, I evaluate a widely adopted downtown revitalization strategy—the Main Street Program—by measuring its influence on the local housing market. I find that home sale prices are higher for residential properties sold in program-participating communities, and I observe an additional sale price premium for homes located in closer proximity to downtown districts with an active Main Street Program."
@@ -35,7 +35,7 @@ featured: false
 #     url: "/files/papers/wp_msprealestate.pdf"
 
 
-url_pdf:
+url_pdf: "/files/papers/wp_msp2022.pdf"
 url_code: "https://github.com/andrewvanleuven/mainstreet"
 url_dataset:
 url_poster: "/files/slides/areuea_poster_2021.pdf"
