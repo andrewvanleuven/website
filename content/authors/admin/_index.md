@@ -87,4 +87,4 @@ user_groups:
 #- Visitors
 ---
 
-I am an Assistant Professor of Rural Community Development in the [Department of Agricultural Economics](https://agriculture.okstate.edu/departments-programs/agecon/index.html) at Oklahoma State University. I share my time between both research and [Extension](https://extension.okstate.edu/topics/business-and-community/community-and-rural-improvement/index.html) programming centered around regional economic development, downtown revitalization, and small business development. I earned my Ph.D. in public policy & management from the John Glenn College of Public Affairs (Ohio State University).
+I am an assistant professor at Oklahoma State University in the Department of Agricultural Economics. I work on research and [Cooperative Extension](https://extension.okstate.edu/programs/community-and-economic-development/index.html) programming centered around regional economic development, downtown revitalization, and small business development. I earned my Ph.D. in public policy & management from the John Glenn College of Public Affairs (Ohio State University).
