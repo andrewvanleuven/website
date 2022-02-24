@@ -87,4 +87,4 @@ user_groups:
 #- Visitors
 ---
 
-I am an assistant professor at Oklahoma State University in the Department of Agricultural Economics. My [research](https://andrewvanleuven.com/#publications) and [Extension programming](https://extension.okstate.edu/programs/community-and-economic-development/index.html) address topics such as regional economic development, downtown revitalization, and small business development. I earned my Ph.D. in public policy & management from the John Glenn College of Public Affairs (Ohio State University). 
+I am an assistant professor at Oklahoma State University in the Department of Agricultural Economics. My [research](https://andrewvanleuven.com/#publications) and [Extension programming](https://extension.okstate.edu/programs/community-and-economic-development/index.html) both focus on regional economic development, downtown revitalization, local entrepreneurship, and a variety of other topics aimed toward strengthening rural economies. I earned my Ph.D. in public policy & management from the John Glenn College of Public Affairs (Ohio State University). 
