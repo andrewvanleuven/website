@@ -1,22 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Leveraging Main Street as a Real Estate Amenity: Retail Corridor Revitalization and Residential Property Values"
+title: "Leveraging Main Street as a Real Estate Amenity: Downtown Revitalization and Residential Property Values"
 authors: ["admin"]
 date: 2022-01-20
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-01-20
+publishDate: 2022-04-02
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Planning Education and Research (in press)*"
+publication: "[*
+Journal of Planning Education and Research*](https://doi.org/10.1177/0739456X221082500)"
 publication_short: ""
 
 abstract: "As part of their efforts to reverse the effects of twentieth-century downtown disinvestment and automobile-oriented development, stakeholders in small towns across the United States look for viable means of restoring the vitality and character of their historic business districts. In this paper, I evaluate a widely adopted downtown revitalization strategy—the Main Street Program—by measuring its influence on the local housing market. I find that home sale prices are higher for residential properties sold in program-participating communities, and I observe an additional sale price premium for homes located in closer proximity to downtown districts with an active Main Street Program."
@@ -28,11 +29,11 @@ tags: []
 categories: []
 featured: false
 
-# links:
-#   - icon_pack:
-#     icon:
-#     name: Working Paper
-#     url: "/files/papers/wp_msprealestate.pdf"
+links:
+  - icon_pack:
+    icon:
+    name: Publication
+    url: "https://journals.sagepub.com/doi/10.1177/0739456X221082500"
 
 
 url_pdf: "/files/papers/wp_msp2022.pdf"
