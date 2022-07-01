@@ -35,6 +35,6 @@ I hope this project is a helpful time-saver for anyone in the future who needs t
 
 * Here is a [direct download](https://andrewvanleuven.com/files/data/historical_county_populations.csv) of the data.
 
-* Here is a [link](https://github.com/andrewvanleuven/vanleuven_academic/blob/master/static/files/data/historical_county_populations.csv) to the data in GitHub (as a searchable online table).
+* Here is a [link](https://github.com/andrewvanleuven/website/blob/master/static/files/data/historical_county_populations.csv) to the data in GitHub (as a searchable online table).
 
-[^1]: Here is my [R code](https://github.com/andrewvanleuven/vanleuven_academic/blob/master/static/files/code/hist_city_pops.R) which I wrote for this project. The custom function I created did not work for four states (AK, CO, FL, and SD) so I processed those .txt files by hand, using Excel. Still, 47 out of 51 isn't bad! If anyone has an idea why my script couldn't handle those states, please [reach out](mailto:vanleuven.3@osu.edu) to me.
+[^1]: Here is my [R code](https://github.com/andrewvanleuven/website/blob/master/static/files/code/hist_city_pops.R) which I wrote for this project. The custom function I created did not work for four states (AK, CO, FL, and SD) so I processed those .txt files by hand, using Excel. Still, 47 out of 51 isn't bad! If anyone has an idea why my script couldn't handle those states, please [reach out](mailto:andrew.vanleuven@okstate.edu) to me.
