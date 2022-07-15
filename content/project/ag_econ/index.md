@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Public Policy and Program Implementation"
+title: "Agricultural Economics"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-10-16T02:28:59-04:00
+date: 2022-07-14T21:56:53-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Locational Characteristics of Rural Business Establishments as Predictors of Long-Term Economic Resilience"
-authors: ["admin"]
-date: 2021-02-26
+title: "What Side of Town? How Proximity to Critical Survival Factors Affects Rural Business Longevity"
+authors: ["admin", Sarah A. Low, Edward W. Hill]
+date: 2022-07-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,17 +16,17 @@ publishDate: 2020-10-05
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*In Progress*"
+publication: "*Growth and Change* (In Press)"
 publication_short: ""
 
-abstract: "This paper uses longitudinal business establishment data from rural counties in the US Midwest to examine the role of locational assets as determinants of firms’ ability to survive economic shocks. I use a proportional hazards model to estimate the likelihood of survival associated with a business establishment’s proximity to features of the built environment. I find that two specific locational assets—proximity to a central business district and proximity to a limited access highway—are closely associated with a reduced likelihood of failure (going out of business) in the years following the Great Recession. The hazard model was repeated using a series of regression sub-samples, each generated according to establishment size or industry sector. The sub-sample regressions provide a clearer picture of the role played by the built environment as a locational determinant of business survival: smaller establishments benefit from higher survival odds when located in close proximity to a downtown district, while larger businesses—especially those in the manufacturing sector—benefited instead from being located in close proximity to interstate highway ramps."
+abstract: "This research adds to the literature on locational determinants of business survival by focusing on an establishment’s proximity to fixed assets. Using longitudinal, establishment-level data from rural counties in the Midwestern United States, we developed a hazard model to estimate the likelihood of rural businesses surviving the Great Recession and the recovery that followed (2007–17). Two critical survival factors are of principal interest: proximity to a pre-automobile era downtown business district and proximity to a limited-access highway ramp. The results suggest that highway proximity enhances survival for manufacturing, transportation, and wholesaling establishments, as does own-industry agglomeration. For food, retail, and accommodation businesses, proximity to cultural anchor institutions enhances the probability of survival but competitive effects, including downtown proximity, reduce the likelihood of survival. On its own, proximity to a downtown was not associated with higher odds of business survival."
 
 # Summary. An optional shortened abstract.
 summary: " "
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 links:
   - icon_pack:
@@ -35,7 +35,7 @@ links:
     url: "mailto:vanleuven.3@osu.edu?subject=Working Paper Request"
 
 url_pdf:
-url_code: "https://github.com/andrewvanleuven/biz_survival"
+url_code:
 url_dataset:
 url_poster:
 url_project:
@@ -56,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [rural]
+projects: [rural_dev]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

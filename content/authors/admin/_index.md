@@ -23,12 +23,13 @@ organizations:
 bio:
 
 interests:
+- Rural Community Development
 - Economic Revitalization
 - Regional Science
-- Rural Community Development
 - Data Science & Visualization
-- Urban & Regional Planning
-- Public Administration
+- Agricultural Economics
+- Regional Planning & Policy
+
 
 education:
   courses:
@@ -49,22 +50,26 @@ education:
 social:
 - icon: envelope
   icon_pack: far
-  link: 'mailto:andrew.vanleuven@okstate.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:andrew.vanleuven@okstate.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=itpo_JcAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4563-0770
 - icon: github
   icon_pack: fab
   link: https://github.com/andrewvanleuven
-- icon: ssrn
-  icon_pack: ai
-  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2929472
 - icon: linkedin-in
   icon_pack: fab
   link: http://linkedin.com/in/andrewvanleuven/
+- icon: hat-cowboy-side
+  icon_pack: fas
+  link: https://experts.okstate.edu/andrew.vanleuven
 
-#- icon: city
-#  icon_pack: fas
+
+#- icon: ssrn
+#  icon_pack: ai
 #  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2929472
 
 
@@ -87,4 +92,4 @@ user_groups:
 #- Visitors
 ---
 
-I am an assistant professor at Oklahoma State University in the Department of Agricultural Economics. My [research](https://andrewvanleuven.com/#publications) and [Extension programming](https://extension.okstate.edu/programs/community-and-economic-development/index.html) both focus on regional economic development, downtown revitalization, local entrepreneurship, and a variety of other topics aimed toward strengthening rural economies. I earned my Ph.D. in public policy & management from the John Glenn College of Public Affairs (Ohio State University). 
+I am an assistant professor at Oklahoma State University in the Department of Agricultural Economics. My [research](https://andrewvanleuven.com/#publications) and [Extension programming](https://extension.okstate.edu/programs/community-and-economic-development/index.html) both focus on regional economic development, downtown revitalization, local entrepreneurship, and a variety of other topics aimed toward strengthening rural economies. I earned my Ph.D. in Public Policy & Management from the John Glenn College of Public Affairs (Ohio State University).

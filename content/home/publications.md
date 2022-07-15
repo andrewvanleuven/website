@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 58  # Order that this section will appear.
 
 title = "Peer-Reviewed Research"
-subtitle = "Published: 3 </br> Under Review: 2"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 4
 
   # Choose how many pages you would like to offset by
   offset = 0

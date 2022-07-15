@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Growth & Decline in U.S. Regional Economies"
+title: "Regional Science and Policy"
 summary: ""
 authors: []
 tags: []

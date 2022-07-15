@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Data Science & Visualization"
+title: "Data Science and Visualization"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-10-17T05:03:47-04:00
+date: 2022-07-13T21:26:00-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

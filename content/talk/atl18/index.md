@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-10-16T02:44:39-04:00
 
-authors: []
+authors: [Co-Presented with Edward W. Hill]
 tags: []
 
 # Is this a featured talk? (true/false)

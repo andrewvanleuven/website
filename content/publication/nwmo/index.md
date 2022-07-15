@@ -1,25 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Regional Economic Resilience After the Great Recession: The Economic Performance of U.S. Metropolitan Statistical Areas"
-authors: [Edward W. Hill, "admin"]
-date: 2020-09-01
+title: "Has COVID-19 Made Rural Areas More Attractive Places to Live? Survey Evidence From Northwest Missouri"
+authors: [Sarah A. Low, Mallory Rahe, "admin"]
+date: 2022-05-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-09-01
+publishDate: 2022-05-06
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*In Progress*"
+publication: "[*Regional Science Policy & Practice*](https://doi.org/10.1111/rsp3.12543)"
 publication_short: ""
 
-abstract: "This study explores the causal drivers of regional economic decline in the aftermath of dramatic national economic shocks. Extant research on regional decline illustrates the difference between cyclical and structural decline, but such examination predates the “Great Recession” spanning from late 2007 to 2009. The paper consists of two sections. First, a descriptive analysis of the event is conducted, focusing specifically on geographic patterns of decline and recovery. Second, an empirical model is employed to identify the factors associated with decline, recovery, and new equilibria following the Great Recession. Our findings indicate mixed results. On one hand, regional industry composition is an important predictor of resilience, specifically when regions entered the recession with a diversity of export industries. On the other hand, location-specific factors—such as educational attainment and the age of the principal city—played a nontrivial role in predicting whether a regional economy would be able to survive the recession."
+abstract: "COVID-19 disruptions encouraged some rural regions to think about proactively attracting newly footloose residents—but would the pandemic make rural areas seem more attractive to potential return migrants? Using econometric analysis of survey data, we find that for natives who had left the study region, attitudes about living in rural areas during COVID were lower on average than for those who stayed. Interestingly, we do find that owning a business and having a stronger sense of belonging are both associated with positive attitudinal shifts towards rural living, which has practical implications for rural migration policy."
 
 # Summary. An optional shortened abstract.
 summary: " "
@@ -36,7 +36,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+links:
+  - icon_pack:
+    icon:
+    name: Publication
+    url: "https://doi.org/10.1111/rsp3.12543"
+
+url_pdf: "/files/papers/rspp_2022.pdf"
 url_code:
 url_dataset:
 url_poster:
@@ -58,7 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [regions]
+projects: [rural_dev]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

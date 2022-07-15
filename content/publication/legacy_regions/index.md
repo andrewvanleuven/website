@@ -31,8 +31,8 @@ featured: false
 links:
   - icon_pack:
     icon:
-    name: Working Paper
-    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3672696"
+    name: Publication
+    url: "https://doi.org/10.1080/07352166.2021.1990775"
 
 url_pdf:
 url_code: "https://github.com/andrewvanleuven/legacyR"
