@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: "[*Cityscape*](https://www.jstor.org/stable/48657957)"
 publication_short: ""
 
-abstract: ""
+abstract: "This short article presents a method for illustrating the spatial delineation of downtown business districts in non-metropolitan counties. Although smaller than their urban counterparts, rural and exurban municipalities established before World War II typically contain a central business district, which is the dense colocation of commercial and civic activity comprising buildings and streetscapes that were developed before the automobile era and are thus oriented toward pedestrian traffic. The paper describes the method for distinguishing downtown business districts from postwar, automobile-oriented malls and retail development. A variety of use cases are discussed, highlighting the potential importance of this data for researchers and practitioners of economic development and planning."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: " "
 
 tags: []
 categories: []
