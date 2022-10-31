@@ -32,7 +32,7 @@ Extension publications include reports and fact sheets that provide research-bas
 
 ### **Oklahoma**
 
-* None so far. Check back soon!
+* N. Dethloff, A. Van Leuven, and C. Bir, (Oct. 2022), [**Customer Service Basics for Agricultural Entrepreneurs**](/files/papers/extension/agec_920.pdf), OSU Extension Fact Sheet, *AGEG-920*.
 
 ### **Missouri**
 
