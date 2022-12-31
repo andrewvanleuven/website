@@ -5,11 +5,11 @@ title: "The U.S. Census Changed How it Classifies Urban Areas"
 subtitle: "Over a Thousand Urban Areas From 2010 Are Now Considered Rural"
 summary: " "
 authors: []
-tags: []
+tags: [post]
 categories: []
-date: 2022-12-30T12:00:00-05:00
-lastmod: 2022-12-30T12:00:00-05:00
-featured: false
+date: 2022-12-29T12:00:00-05:00
+lastmod: 2022-12-29T12:00:00-05:00
+featured: true
 draft: false
 
 # Featured image
