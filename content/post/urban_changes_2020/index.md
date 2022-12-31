@@ -31,8 +31,9 @@ projects: [datasci]
 I recently saw this tweet from the U.S. Census Bureau:
 
 <p align="center">
-  {{< tweet user="uscensusbureau" id="1608500832844095488" >}}
+  {{< tweet 1608500832844095488 >}}
 </p>
+
 
 I remember reading public comments in response to the [OMB proposal](https://www.regulations.gov/document/OMB-2021-0001-0001) to potentially change its definition of metropolitan and non-metropolitan statistical areas, but I somehow completely missed the conversation around redefining urban areas!
 
