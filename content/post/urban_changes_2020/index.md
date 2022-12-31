@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The U.S. Census Changed How it Classifies Urban Areas"
+title: "The U.S. Census Changed How it Defines Urban Areas"
 subtitle: "Over a Thousand Urban Areas From 2010 Are Now Considered Rural"
 summary: " "
 authors: []
@@ -35,9 +35,9 @@ I recently saw this tweet from the U.S. Census Bureau:
 </p>
 
 
-I remember reading public comments in response to the [OMB proposal](https://www.regulations.gov/document/OMB-2021-0001-0001) to potentially change its definition of metropolitan and non-metropolitan statistical areas, but I somehow completely missed the conversation around redefining urban areas!
+I remember reading public comments in response to the [OMB proposal](https://www.regulations.gov/document/OMB-2021-0001-0001) to potentially change its definition of metropolitan and non-metropolitan statistical areas, but I somehow completely missed the [conversation](https://www.census.gov/programs-surveys/geography/about/federal-register-notices.html#:~:text=SDRP%3A%20January%202018-,Urban%20Areas,-Notice%20of%20Final) around redefining urban areas!
 
-Before diving into any maps or commentary, I should be clear that, in comparison with the OMB's delineation of core-based statistical areas, the Census Bureau's definition of urban is far less relevant for local policymakers. Consider this [public comment](https://www.regulations.gov/comment/OMB-2021-0001-0097) from a planner in Rapid City, anticipating that the OMB's proposed change could potentially "*result in funding shortfalls related to numerous federal funding programs that use this designation as a requirement for eligibility*." In contrast, while the OMB uses metropolitan/non-metropolitan as a significant administrative unit (with non-trivial sums of money at stake), the Census definition of urban and rural is simply a means to describe the country's population.
+Before diving into any maps or commentary, I should be clear that, in comparison with the OMB's delineation of core-based statistical areas, the Census Bureau's definition of urban is far less relevant for local policymakers. Consider this [public comment](https://www.regulations.gov/comment/OMB-2021-0001-0097) from a planner in Rapid City, anticipating that the OMB's proposed change could potentially "*result in funding shortfalls related to numerous federal funding programs that use this designation as a requirement for eligibility*." In contrast, while the OMB uses metropolitan/non-metropolitan as a significant administrative unit (with non-trivial sums of money at stake), the Census definition of urban and rural is — with a few [exceptions](https://www.federalregister.gov/documents/2021/02/19/2021-03412/urban-areas-for-the-2020-census-proposed-criteria#:~:text=In%20delineating%20urban,of%20their%20programs.) — largely a means to **accurately describe the country's population**.
 
 That said, I think the urban/rural classification is still important. I'm usually not the biggest fan of changing definitional criteria over time. I like consistency: if a town enters into (or drops out of) the "urban" category, I prefer that it be due to changes within the town rather than changes to the rules. However, the "rules" of economic geography can and do change over time, and our criteria for classifying the observed universe must change along with them.
 
@@ -49,7 +49,7 @@ In the past, remote places, though small, could mirror their larger metropolitan
   McDowell Street in Welch, West Virginia in 1946 and 2015
 </p>
 
-The "non-metropolitan urbanized town" still exists in 2022, but there are just a whole lot fewer of them than there used to be. The Census Bureau's new guidelines simply reduce the number of false positives: places that *look* dense but no longer behave like an urban area.
+The "non-metropolitan urbanized town" still exists in 2022, but there are just a whole lot fewer of them than there used to be. The Census Bureau's new guidelines simply reduce the number of false positives: places that *look* dense but no longer behave like an urban area. Places like Welch, WV.
 
 The new changes are [summarized](https://www.census.gov/newsroom/blogs/random-samplings/2022/12/redefining-urban-areas-following-2020-census.html) as follows:
 
@@ -69,7 +69,9 @@ The most populated urban areas correspond with the darkest dots on the map, clea
 
 The next maps (and scrollable data table) show how each state fared in the aftermath of the criteria change. In raw terms, Texas lost the most urban areas, but West Virginia and New Jersey lost the highest *share* of their 2010 urban areas.
 
-[![Urban Areas Reduction](/img/maps/reduction.jpg)](https://raw.githubusercontent.com/andrewvanleuven/website/master/static/img/maps/reduction.jpg)
+| [![Urban Areas Reduction](/img/maps/reduction.jpg)](https://raw.githubusercontent.com/andrewvanleuven/website/master/static/img/maps/reduction.jpg) |
+|:--:|
+| *Note: for all maps, simply click on the image for a larger, high-resolution version.* |
 
 <p align="center">
 <iframe width="700" height="350" src="/viz/tab.html" title="Map" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -83,6 +85,8 @@ The shapefiles for Census-defined urban areas can be a useful cartographic featu
 
 After creating a similar map for my home state of Oklahoma, it is staggering to see how many urban areas fall of the map (pun intended) after this change in classification criteria. As stated above, I mostly agree with the rationale for and execution of the change. However, I'll admit that those little red polygons will be sorely missed as a neat little cartographic tool, showing regional population centers, big and small.
 
-[![Oklahoma Map after 2020 Changes](/img/maps/comparison.jpg)](https://raw.githubusercontent.com/andrewvanleuven/website/master/static/img/maps/comparison.jpg)
+| [![Oklahoma Map after 2020 Changes](/img/maps/comparison.jpg)](https://raw.githubusercontent.com/andrewvanleuven/website/master/static/img/maps/comparison.jpg) |
+|:--:|
+| *With the Census Bureau's new definition of urban, every red polygon in this map is now considered rural.* |
 
 As far as workarounds go, I can always a) hold onto the 2010 shapefiles, clutching tightly to "the old ways" or b) come up with my own classification scheme for regional population centers. But where's the fun in that?
