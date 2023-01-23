@@ -32,6 +32,8 @@ Extension publications include reports and fact sheets that provide research-bas
 
 ### **Oklahoma**
 
+* A. Van Leuven, and C. Bir, (Jan. 2023), [**Participants in Community and Economic Development**](/files/papers/extension/agec_9500.pdf), OSU Extension Fact Sheet, *AGEG-950*.
+* 
 * N. Dethloff, A. Van Leuven, and C. Bir, (Oct. 2022), [**Customer Service Basics for Agricultural Entrepreneurs**](/files/papers/extension/agec_920.pdf), OSU Extension Fact Sheet, *AGEG-920*.
 
 ### **Missouri**
