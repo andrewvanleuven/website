@@ -32,6 +32,8 @@ Extension publications include reports and fact sheets that provide research-bas
 
 ### **Oklahoma**
 
+* A. Van Leuven, (Mar. 2023), [**Medical Marijuana Dispensaries in Oklahoma**](/files/papers/extension/agec_22009.pdf), OSU AGEC Current Report, *22009*.
+
 * A. Van Leuven, (Jan. 2023), [**Participants in Community and Economic Development**](/files/papers/extension/agec_9500.pdf), OSU Extension Fact Sheet, *AGEG-950*.
 
 * N. Dethloff, A. Van Leuven, and C. Bir, (Oct. 2022), [**Customer Service Basics for Agricultural Entrepreneurs**](/files/papers/extension/agec_920.pdf), OSU Extension Fact Sheet, *AGEG-920*.
