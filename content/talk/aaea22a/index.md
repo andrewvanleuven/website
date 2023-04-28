@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Does Faster Broadband Mean Faster Growth for Rural Businesses?"
+title: "Rural Gigabits and Business Births"
 event: "Agricultural and Applied Economics Association (AAEA) Annual Meeting"
 event_url: "https://www.aaea.org/meetings/2022-aaea-annual-meeting"
 location: "Anaheim, CA"

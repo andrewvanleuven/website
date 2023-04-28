@@ -8,7 +8,7 @@ title = "Extension Publications"
 
 +++
 
-[![Principal Cities in U.S. CBSAs, Polygons](/img/rural_main_street_ok.png)](https://extension.okstate.edu/programs/community-and-economic-development/)
+[![Small Town Main Street](/img/rural_main_street_ok.png)](/post/extension_list)
 
 Extension publications include reports and fact sheets that provide research-based information on a wide variety of topics.
 
