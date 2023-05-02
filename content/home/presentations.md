@@ -8,6 +8,6 @@ title = "Other Presentations"
 
 +++
 
-My "other" presentations include any sort of talk I give outside of the typical resarch conference setting. These include Extension talks, guest lectures, and other workshops.
+My other presentations include any sort of talk I give outside of the typical resarch conference setting. These include Extension talks, guest lectures, workshops, webinars, and so forth.
 
 Click [**here**](/post/presentation_list) for a list of recent presentations.
