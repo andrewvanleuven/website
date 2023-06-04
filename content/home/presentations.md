@@ -4,7 +4,7 @@ widget = "blank"
 headless = true
 active = true  
 weight = 99
-title = "Other Presentations"
+title = "Other Talks & Presentations"
 
 +++
 
