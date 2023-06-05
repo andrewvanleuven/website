@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [datasci]
 ---
-This week, the U.S. Census Bureau unveiled the 2022 municipal [population estimates](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html), which approximate the total population in all U.S. "cities and towns" as of July 1, 2022. Below is a map that illustates how Oklahoma municipalities' population changed between 2020 and 2022 (it's a bit small, but hovering over any dot will show the town's name, 2022 population, and percent change since 2020).
+This week, the U.S. Census Bureau unveiled the 2022 municipal [population estimates](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html), which approximate the total population in all U.S. "cities and towns" as of July 1, 2022. Below is a map that illustrates how Oklahoma municipalities' population changed between 2020 and 2022 (it's a bit small, but hovering over any dot will show the town's name, 2022 population, and percent change since 2020).
 
 <iframe height="615" width="100%" frameborder="no" src="/viz/maps/hover_mun.html"> </iframe>
 
