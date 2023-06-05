@@ -48,7 +48,7 @@ The relationship between the two maps shows a significant negative correlation: 
 
 ## **Vacant Housing Units**
 
-The great thing about the decennial census is that it is based on a true count of all individuals and households living within a given area. Compared to the ACS---which is updated more frequently but is based on sampling, assumptions, and inherent margins of errror---the decennial census is a much better data source when you want to focus on smaller geographies while maintining confdence in data accuracy.[^1]
+The great thing about the decennial census is that it is based on a true count of all individuals and households living within a given area. Compared to the ACS---which is updated more frequently but is based on sampling, assumptions, and inherent margins of error---the decennial census is a much better data source when you want to focus on smaller geographies while maintaining confidence in data accuracy.[^1]
 
 Moving down from the county to the *census tract* level, here is a map that illustrates residential vacancy in Oklahoma.
 
