@@ -28,7 +28,7 @@ image:
 projects: [datasci]
 ---
 
-As the 2020 Decennial Census is now a few years old, the Office of Management and Budget (OMB) finally [released](https://www.whitehouse.gov/wp-content/uploads/2023/07/OMB-Bulletin-23-01.pdf) its "revised delineations for the Nation’s Metropolitan Statistical Areas, Micropolitan Statistical Areas, Combined Statistical Areas, and Metropolitan Divisions," otherwise referred to as Core Based Statistical Areas (CBSAs). This short post uses these new delineations to illustrate how the overall CBSA landscape has changed since 2013, when the delineations for the 2010 Decennial Census were released.[^1]
+As the 2020 Decennial Census is now a few years old, the Office of Management and Budget (OMB) finally [released](https://www.whitehouse.gov/wp-content/uploads/2023/07/OMB-Bulletin-23-01.pdf) its "revised delineations for the Nation’s Metropolitan Statistical Areas, Micropolitan Statistical Areas, Combined Statistical Areas, and Metropolitan Divisions," otherwise referred to as Core Based Statistical Areas (CBSAs). This short post uses these new delineations to illustrate how the overall CBSA landscape has changed since 2013 (when the previous decade's delineations were released).[^1]
 
 There are four main categories of CBSAs to highlight:
 
@@ -43,7 +43,7 @@ And now, some maps:
 <iframe title="CBSA Delineation Changes" aria-label="Map" id="datawrapper-chart-ClO9H" src="https://datawrapper.dwcdn.net/ClO9H/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="724" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-This map shows every CBSA from either the 2013 or 2023 delineation scheme. While the majority of statistical areas did not change over the last decade, there is a nontrivial number of CBSAs whose status changed in some form during that time. Each of the maps below focuses on a different category of change.
+This map shows every CBSA from either the 2013 or 2023 delineation scheme. While the majority of statistical areas did not change over the last decade, a nontrivial number of CBSAs changed in some way during that time. Since this first map is a quite busy (my apologies to those viewing on a mobile device), I created a few additional maps to tell a cleaner story. Each of the maps below focuses on a different category of change.
 
 </br>
 
