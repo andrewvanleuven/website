@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Locational Determinants of Lending Deserts in the Rural United States”"
+title: "Locational Determinants of Lending Deserts in the Rural United States"
 event: "Southern Regional Science Association (SRSA) Annual Meeting"
 event_url:
 location: "Savannah, GA"
@@ -14,6 +14,7 @@ address:
 summary: "Southern Regional Science Association (SRSA) Annual Meeting"
 abstract: " "
 
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-03-31
@@ -21,7 +22,7 @@ date: 2023-03-31
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2023-04-14T20:59:05-05:00
+publishDate: 2033-04-14T20:59:05-05:00
 
 authors: ["Co-Presented with Dayton Lambert, Tessa Conroy, and Kelsey Conley"]
 tags: []
