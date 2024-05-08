@@ -19,16 +19,23 @@ organizations:
 - name: Oklahoma State University
   url: "https://okstate.edu/"
 
+# Role/position
+#role: Assistant Professor
+
+# Organizations/Affiliations
+#- name: Community Development & Applied Economics, University of Vermont
+#  url: "https://www.uvm.edu/cals/cdae"
+
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Rural Community Development
-- Economic Revitalization
-- Regional Science
+- Community Entrepreneurship
+- Rural Development
 - Data Science & Visualization
 - Agricultural Economics
-- Regional Planning & Policy
+- Regional Science & Policy
+- Economic Revitalization
 
 
 education:
@@ -63,9 +70,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: http://linkedin.com/in/andrewvanleuven/
-- icon: hat-cowboy-side
-  icon_pack: fas
-  link: https://experts.okstate.edu/andrew.vanleuven
+#- icon: hat-cowboy-side
+#  icon_pack: fas
+#  link: https://experts.okstate.edu/andrew.vanleuven
 
 
 #- icon: ssrn
@@ -92,4 +99,4 @@ user_groups:
 #- Visitors
 ---
 
-I am an assistant professor at Oklahoma State University in the Department of Agricultural Economics. My [research](https://andrewvanleuven.com/#publications) and [Extension programming](https://extension.okstate.edu/programs/community-and-economic-development/index.html) both focus on regional economic development, downtown revitalization, local entrepreneurship, and a variety of other topics aimed toward strengthening rural economies. I earned my Ph.D. in Public Policy & Management from the John Glenn College of Public Affairs (Ohio State University).
+I am an assistant professor at Oklahoma State University in the Department of Agricultural Economics. My research and teaching both focus on community entrepreneurship, regional economic development, downtown revitalization, and a variety of other topics aimed toward strengthening local economies. I earned my Ph.D. in Public Policy & Management from the John Glenn College of Public Affairs (Ohio State University).

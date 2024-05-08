@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [rural_dev]
+projects: [economic_vitality]
 ---
 
 I was recently interviewed by Clark Merrefield (reporter for Harvard Kennedy School's *Journalist's Resource*) about my economic revitalization research paper [pubished in EDQ](https://doi.org/10.1177/08912424211038060).

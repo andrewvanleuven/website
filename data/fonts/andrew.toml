@@ -2,13 +2,13 @@
 name = "andrew"
 
 # Optional Google font URL
-google_fonts = "Roboto:wght@300;500|Roboto+Condensed:ital,wght@0,400;0,700;1,400;1,700|Nanum+Gothic+Coding:wght@700|Space+Mono"
+google_fonts = "Afacad:ital,wght@0,400..700;1,400..700|Victor+Mono:wght@700|Nova+Mono"
 
 # Font families
-heading_font = "Roboto Condensed"
-body_font = "Roboto Condensed"
-nav_font = "Nanum Gothic Coding"
-mono_font = "Space Mono"
+heading_font = "Afacad"
+body_font = "Afacad"
+nav_font = "Victor Mono"
+mono_font = "Victor Mono"
 
 # Font size
 font_size = "24"

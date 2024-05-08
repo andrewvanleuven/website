@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2023-11-09T20:59:05-05:00
 
-authors: ["Co-Presented with Dayton Lambert, Tessa Conroy, and Kelsey Conley"]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)

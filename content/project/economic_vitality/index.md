@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Community Vitality"
+title: "Local Economic Vitality"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2022-07-14T21:26:00-05:00
+date: 2021-01-17
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
