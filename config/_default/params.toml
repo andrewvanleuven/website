@@ -97,7 +97,7 @@ phone = "(802) 393-8313"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "44.47673747061611", longitude = "-73.19832925550274"}
+coordinates = {latitude = "44.476708809608986", longitude = "-73.19835392615279"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -114,7 +114,7 @@ coordinates = {latitude = "44.47673747061611", longitude = "-73.19832925550274"}
 contact_links = [
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "github-square", icon_pack = "fab", name = "GitHub", link = "https://github.com/andrewvanleuven"},
-  {icon = "map-marked-alt", icon_pack = "fas", name = "530 Agricultural Hall, Stillwater, OK 74078", link = "https://agriculture.okstate.edu/"}
+#  {icon = "map-marked-alt", icon_pack = "fas", name = "530 Agricultural Hall, Stillwater, OK 74078", link = "https://agriculture.okstate.edu/"}
   ]
 
 ############################
