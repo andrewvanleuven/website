@@ -89,7 +89,7 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "andrew.vanleuven@okstate.edu"
-phone = "405 744 6854"
+phone = "(802) 393-8313‬"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,7 +97,7 @@ phone = "405 744 6854"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.12373501765852", longitude = "-97.07227067585755"}
+coordinates = {latitude = "44.47673747061611", longitude = "-73.19832925550274"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
