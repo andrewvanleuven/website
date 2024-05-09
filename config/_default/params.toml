@@ -89,7 +89,7 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "andrew.vanleuven@okstate.edu"
-phone = "(802) 393-8313‬"
+phone = "(802) 393-8313"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
