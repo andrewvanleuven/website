@@ -2,11 +2,11 @@
 name = "andrew"
 
 # Optional Google font URL
-google_fonts = "Afacad:ital,wght@0,400..700;1,400..700|Victor+Mono:wght@700|Nova+Mono"
+google_fonts = "Teachers:ital,wght@0,400..800;1,400..800|Victor+Mono:wght@700|Nova+Mono"
 
 # Font families
-heading_font = "Afacad"
-body_font = "Afacad"
+heading_font = "Teachers"
+body_font = "Teachers"
 nav_font = "Victor Mono"
 mono_font = "Victor Mono"
 
