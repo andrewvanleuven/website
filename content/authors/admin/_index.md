@@ -10,17 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Community and Rural Development
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Agricultural Economics
+- name: Department of Agricultural Economics, Oklahoma State University
   url: "https://agriculture.okstate.edu/departments-programs/agecon/index.html"
-- name: Oklahoma State University
-  url: "https://okstate.edu/"
 
-# Role/position
-#role: Assistant Professor
 
 # Organizations/Affiliations
 #- name: Community Development & Applied Economics, University of Vermont
@@ -31,11 +27,11 @@ bio:
 
 interests:
 - Community Entrepreneurship
+- Revitalization & Placemaking
 - Rural Development
 - Data Science & Visualization
 - Agricultural Economics
 - Regional Science & Policy
-- Economic Revitalization
 
 
 education:

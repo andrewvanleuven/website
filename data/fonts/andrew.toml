@@ -2,13 +2,13 @@
 name = "andrew"
 
 # Optional Google font URL
-google_fonts = "Teachers:ital,wght@0,400..800;1,400..800|Victor+Mono:wght@700|Nova+Mono"
+google_fonts = "Sono:wght@500..800|Saira+Semi+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700"
 
 # Font families
-heading_font = "Teachers"
-body_font = "Teachers"
-nav_font = "Victor Mono"
-mono_font = "Victor Mono"
+heading_font = "Saira Semi Condensed"
+body_font = "Saira Semi Condensed"
+nav_font = "Sono"
+mono_font = "Sono"
 
 # Font size
 font_size = "24"
