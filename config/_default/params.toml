@@ -88,7 +88,7 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "andrew.vanleuven@okstate.edu"
+email = "andrew.vanleuven@uvm.edu"
 phone = "(802) 393-8313"
 
 # Address
