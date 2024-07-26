@@ -14,8 +14,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Agricultural Economics, Oklahoma State University
-  url: "https://agriculture.okstate.edu/departments-programs/agecon/index.html"
+- name: Community Development & Applied Economics, University of Vermont
+  url: "https://www.uvm.edu/cals/cdae"
 
 
 # Organizations/Affiliations
@@ -53,7 +53,7 @@ education:
 social:
 - icon: envelope
   icon_pack: far
-  link: 'mailto:andrew.vanleuven@okstate.edu'
+  link: 'mailto:andrew.vanleuven@uvm.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=itpo_JcAAAAJ&hl=en
@@ -95,4 +95,4 @@ user_groups:
 #- Visitors
 ---
 
-I am an assistant professor at Oklahoma State University in the Department of Agricultural Economics. My research and teaching both focus on community entrepreneurship, regional economic development, downtown revitalization, and a variety of other topics aimed toward strengthening local economies. I earned my Ph.D. in Public Policy & Management from the John Glenn College of Public Affairs (Ohio State University).
+I am an assistant professor at the University of Vermont in the Department of Community Development & Applied Economics. My research and teaching both focus on community entrepreneurship, regional economic development, downtown revitalization, and a variety of other topics aimed toward strengthening local economies. I earned my Ph.D. in Public Policy & Management from the John Glenn College of Public Affairs (Ohio State University).
