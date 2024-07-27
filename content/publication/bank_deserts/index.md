@@ -4,7 +4,7 @@
 title: "Do “banking deserts” even exist? Examining access to brick-and-mortar financial institutions in the continental United States"
 authors: ["admin", Dayton Lambert, Tessa Conroy, Kelsey L. Thomas]
 date: 2024-02-22
-doi: ""
+doi: "10.1016/j.apgeog.2024.103201"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-02-22
@@ -64,7 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [rural_dev]
+projects: [regions]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

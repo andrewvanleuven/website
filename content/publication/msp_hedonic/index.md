@@ -4,7 +4,7 @@
 title: "Leveraging Main Street as a Real Estate Amenity: Downtown Revitalization and Residential Property Values"
 authors: ["admin"]
 date: 2022-01-20
-doi: ""
+doi: "10.1177/0739456X221082500"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-04-02

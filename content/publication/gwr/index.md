@@ -4,7 +4,7 @@
 title: "Are Foreclosure Spillover Effects Universal? Variation over Space and Time"
 authors: [Yung Chun, Stephanie C. Pierce, "admin"]
 date: 2021-02-26
-doi: ""
+doi: "10.1080/10511482.2021.1882533"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-05

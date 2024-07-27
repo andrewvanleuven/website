@@ -4,7 +4,7 @@
 title: "The Impact of Main Street Revitalization on Small-Town Business Districts"
 authors: ["admin"]
 date: 2021-04-13
-doi: ""
+doi: "10.1177/08912424211038060"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-13

@@ -4,7 +4,7 @@
 title: "The Role of Community Capital in Rural Renewal"
 authors: [Raquel Taylor, "admin", Shane Robinson]
 date: 2023-06-03
-doi: ""
+doi: "10.1080/26883597.2023.2258453"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-06-02

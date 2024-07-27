@@ -4,7 +4,7 @@
 title: "What Side of Town? How Proximity to Critical Survival Factors Affects Rural Business Longevity"
 authors: ["admin", Sarah A. Low, Edward W. Hill]
 date: 2022-07-06
-doi: ""
+doi: "10.1111/grow.12652"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-05

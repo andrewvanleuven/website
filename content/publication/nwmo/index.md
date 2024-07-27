@@ -4,7 +4,7 @@
 title: "Has COVID-19 Made Rural Areas More Attractive Places to Live? Survey Evidence From Northwest Missouri"
 authors: [Sarah A. Low, Mallory Rahe, "admin"]
 date: 2022-05-06
-doi: ""
+doi: "10.1111/rsp3.12543"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-05-06
