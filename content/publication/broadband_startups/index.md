@@ -42,7 +42,7 @@ links:
     name: Publication
     url: "https://doi.org/10.1016/j.infoecopol.2024.101094"
 
-url_pdf: "files/papers/iep_biedny_et_al_2024.pdf"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0167624524000167/pdfft"
 url_code:
 url_dataset:
 url_poster:
