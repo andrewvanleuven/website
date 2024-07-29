@@ -95,4 +95,4 @@ user_groups:
 #- Visitors
 ---
 
-I am an assistant professor at the University of Vermont in the Department of Community Development & Applied Economics. My research and teaching both focus on community entrepreneurship, regional economic development, downtown revitalization, and a variety of other topics aimed toward strengthening local economies. I earned my Ph.D. in Public Policy & Management from the John Glenn College of Public Affairs (Ohio State University).
+I am an assistant professor at the University of Vermont in the Department of Community Development & Applied Economics. My research and teaching focus on community entrepreneurship, regional development, and revitalization efforts that strengthen local economies and foster sustainable growth.
