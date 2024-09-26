@@ -37,7 +37,7 @@ According to their website, *The Journalist’s Resource* "curates, summarizes a
 In addition to his excellent write-up, I am grateful to Clark for seeing my research and initiating the interview. Here is his Twitter coverage of the article:
 
 <p align="center">
-  {{< tweet id="1435579944432717832" user="cmerref" >}}
+  {{< tweet 1435579944432717832 >}}
 </p>
 
 
