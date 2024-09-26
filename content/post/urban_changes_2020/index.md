@@ -31,7 +31,7 @@ projects: [datasci]
 I recently saw this tweet from the U.S. Census Bureau:
 
 <p align="center">
-  {{< tweet 1608500832844095488 >}}
+  {{< tweet id="1608500832844095488" user="uscensusbureau" >}}
 </p>
 
 

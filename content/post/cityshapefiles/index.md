@@ -32,7 +32,7 @@ A New York Times reporter whose work I enjoy recently posted the following reque
 
 
 <p align="center">
-  {{< tweet 1286380548009721857 >}}
+  {{< tweet id="1286380548009721857" user="emilymbadger" >}}
 </p>
 
 I don't think that particular GIS shapefile exists anywhere on the web. At least, I don't think there is a ready-made shapefile of census places (e.g., cities, boroughs, towns, etc.) that is restricted only to principal cities in a CBSA. So I made one myself!
