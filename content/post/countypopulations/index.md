@@ -27,10 +27,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [datasci]
 ---
-## *Update*
+## ***Update***
 *This dataset has gotten a fair bit of attention from fellow social scientists. Some have even asked for a way to cite it! I've updated the data (to now include 2020 decennial populations) and have uploaded it to the Harvard Dataverse. Anyone who'd like a copy of my data can access it [here](https://doi.org/10.7910/DVN/WLS5GF). Please use the following citation:*
 
-> Van Leuven, Andrew J, 2024, "Historical U.S. County Population Data: 1900 to 2020", [https://doi.org/10.7910/DVN/WLS5GF](https://doi.org/10.7910/DVN/WLS5GF), Harvard Dataverse, V1
+> Van Leuven, Andrew J, 2024, "Historical U.S. County Population Data: 1900 to 2020", [https://doi.org/10.7910/DVN/WLS5GF](https://doi.org/10.7910/DVN/WLS5GF), Harvard Dataverse, V1.
+
+***
 
 These data---1900 to 1990 county populations---come from the U.S. Census (original [link](https://www.census.gov/population/www/censusdata/cencounts/index.html) is now dead) but have not historically been available in tabular form. I wrote a custom R script[^1] which converted the individual state-level .txt files from this Census webpage into usable .csv files. The county population data for 2000 and 2010 were collected using Kyle Walker's excellent [`tidycensus`](https://github.com/walkerke/tidycensus) package.
 
