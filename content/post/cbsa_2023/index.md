@@ -79,10 +79,11 @@ This map shows every CBSA from either the 2013 or 2023 delineation scheme. While
 
 </br>
 
-My whole goal in writing this post was to visualize the resulting changes of OMB's revised metropolitan and micropolitan statistical area delineations. This was a fun exercise in mapping and data wrangling, and I hope it can serve as a useful reference point for those curious about the evolution of our statistical regions after a decade of growth and decline. Anyone who'd like a copy of my data, please reach out via email.[^2]
+My whole goal in writing this post was to visualize the resulting changes of OMB's revised metropolitan and micropolitan statistical area delineations. This was a fun exercise in mapping and data wrangling, and I hope it can serve as a useful reference point for those curious about the evolution of our statistical regions after a decade of growth and decline. Anyone who'd like a copy of my data, I've [uploaded it to the Harvard Dataverse](https://doi.org/10.7910/DVN/CED24H). Please use the following citation:
+
+Van Leuven, Andrew J., 2024, "Changes to U.S. Metropolitan and Micropolitan Areas, 2013-2023", [https://doi.org/10.7910/DVN/CED24H](https://doi.org/10.7910/DVN/CED24H), Harvard Dataverse, V1.
 
 </br>
 
 [^1]: I used the Census Bureau's delineation files for 2023 [here](https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html) and for 2013 [here](https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/historical-delineation-files.html). There is a fantastic breakdown of ["Metro Area History from 1950 to 2020"](https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/2020/historical-delineation-files/metro_area_history_1950_2020.xls) on the Census Bureau site, but alas, it does not include any of the 2023 changes.
 
-[^2]: But please be patient, as the fall semester is about to begin! 😊
