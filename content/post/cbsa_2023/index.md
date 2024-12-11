@@ -81,7 +81,7 @@ This map shows every CBSA from either the 2013 or 2023 delineation scheme. While
 
 My whole goal in writing this post was to visualize the resulting changes of OMB's revised metropolitan and micropolitan statistical area delineations. This was a fun exercise in mapping and data wrangling, and I hope it can serve as a useful reference point for those curious about the evolution of our statistical regions after a decade of growth and decline. Anyone who'd like a copy of my data, I've [uploaded it to the Harvard Dataverse](https://doi.org/10.7910/DVN/CED24H). Please use the following citation:
 
-Van Leuven, Andrew J., 2024, "Changes to U.S. Metropolitan and Micropolitan Areas, 2013-2023", [https://doi.org/10.7910/DVN/CED24H](https://doi.org/10.7910/DVN/CED24H), Harvard Dataverse, V1.
+> Van Leuven, Andrew J., 2024, "Changes to U.S. Metropolitan and Micropolitan Areas, 2013-2023", [https://doi.org/10.7910/DVN/CED24H](https://doi.org/10.7910/DVN/CED24H), Harvard Dataverse, V1.
 
 </br>
 
