@@ -3,11 +3,11 @@
 
 title: "Leveraging social ties to financial gains: Exploring the impact of social capital in rural development"
 authors: [Mallory Rahe, "admin", Trey Malone]
-date: 2025-02-09
+date: 2024-12-19
 doi: "10.1016/j.jrurstud.2024.103539"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-02-09
+publishDate: 2024-12-19
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publication_types: ["6"]
 
 
 # Publication name and optional abbreviated publication name.
-publication: "[*The Encyclopedia of Human Geography*](https://doi.org/10.1016/j.jrurstud.2024.103539)"
+publication: "[*Journal of Rural Studies*](https://doi.org/10.1016/j.jrurstud.2024.103539)"
 publication_short: ""
 
 abstract: "Social capital, defined as networks of individuals linked through bonding or bridging relationships, plays a crucial but poorly conceptualized role in place-based development. The word “capital” implies an underlying value of the social connections throughout a community, and this study explores how these social relationships are used to initiate, plan, access financial capital, and implement economic development projects in rural areas. We avoid county-level aggregation bias and use a divergent pathway case study of projects across eight communities to examine how social ties are used during rural development in places with both high and low financial capital. Both types of communities had active social networks and were successfully completing projects, but they were sometimes using their ties differently. We find that most projects initiate through bonding social capital. The availability of financial capital within a network significantly influences network ties and their utilization in later steps of rural development projects. Low prosperity communities with limited financial capital are more likely to use bridging ties to leverage new financial resources. High prosperity communities relied on both bonding and bridging ties but had more potential actors, financial resources, and business experience. We find social and financial capital are intertwined, suggesting future efforts to support rural development should consider both types of assets."
