@@ -37,11 +37,6 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-links:
-  - icon_pack:
-    icon:
-    name: Publication
-    url: "https://doi.org/10.1017/aae.2024.29"
 
 url_pdf: "/files/papers/cropins_jaae.pdf"
 url_code:

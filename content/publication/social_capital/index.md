@@ -37,11 +37,6 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-links:
-  - icon_pack:
-    icon:
-    name: Publication
-    url: "https://doi.org/10.1016/j.jrurstud.2024.103539"
 
 url_pdf: "/files/papers/social_capital_rurstud.pdf"
 url_code:
