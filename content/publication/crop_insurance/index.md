@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Perceived versus Measured Impacts of Medical Marijuana on Rural Oklahoma Home Values"
-authors: [Amy D. Hagerman , K. Aleks Schaefer, "admin", Francis Tsiboe, Alicia M. Young, Yacob Abrehe Zereyesus]
+title: "Mitigating Structural Inequities in U.S. Agricultural Risk Management"
+authors: [Amy D. Hagerman , K. Aleks Schaefer, "admin", Francis Tsiboe, Alicia M. Young, Yacob Zereyesus]
 date: 2025-01-21
 doi: "10.1017/aae.2024.29"
 
