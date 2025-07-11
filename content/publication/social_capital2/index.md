@@ -4,7 +4,7 @@
 title: "Bowling Leagues and Facebook Friends: Rethinking Social Capital in the Digital Age"
 authors: ["admin", Trey Malone]
 date: 2025-07-09
-doi: ""
+doi: "http://dx.doi.org/10.2139/ssrn.5344896"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-07-09
@@ -17,7 +17,7 @@ publication_types: ["3"]
 
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "[*Working Paper*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5344896)"
 publication_short: ""
 
 abstract: "This paper compares the \"bowling alone\" method of quantifying social capital-based on the density of civic organizations and brick-and-mortar institutions-with newer approaches that draw on billions of online friendship ties to assess economic connectedness and social cohesion. Using county-level data from across the continental United States, we construct and compare indices of traditional and digital social capital, mapping their geographic distributions and assessing their correlation. Our analysis reveals that these two measures are only weakly correlated and exhibit strikingly different spatial patterns, with traditional social capital highest in rural areas and digital social capital concentrated in metropolitan regions. Each measure captures complementary, but not substitutable, dimensions of community connectedness. These results challenge the idea that either metric alone is sufficient for transformative community development, stressing the importance of an integrated approach to understanding the full spectrum of local social ties in the modern era."
@@ -43,7 +43,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: 
+url_slides: "/files/slides/cdsociety25_slides.pdf"
 url_video:
 
 # Featured image
