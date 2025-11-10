@@ -1,33 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Third Places and Housing Market Dynamics in Urban and Rural Neighborhoods"
-authors: ["admin", Amanda Weinstein]
-date: 2025-07-15
-doi: "http://dx.doi.org/10.2139/ssrn.5355511"
+title: "The Importance of Third Places in Rural Communities"
+authors: ["admin"]
+date: 2025-10-15
+doi: "http://doi.org/10.22004/ag.econ.369397"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-07-15
+publishDate: 2025-10-15
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 
 # Publication name and optional abbreviated publication name.
-publication: "[*Working Paper*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355511)"
+publication: "[*Choices*](https://www.choicesmagazine.org/choices-magazine/submitted-articles/the-importance-of-third-places-in-rural-communities)"
 publication_short: ""
 
-abstract: "This study examines how third places---informal gathering spots like coffee shops and bars---influence neighborhood housing values as a measure of local quality of life. Using two-way fixed effects regression on business data from five Great Lakes states, we find a significant positive association between third-place establishments and housing prices. The effect is strongest for eating and drinking venues, particularly in metropolitan areas where such amenities are highly capitalized into housing values. In nonmetropolitan areas, impacts are weaker and often statistically insignificant. These findings demonstrate how geography and social context shape third places' influence on housing markets, offering implications for development."
+abstract: "While much of our adult lives unfold either at home or in the workplace, many of our most meaningful social interactions occur somewhere else entirely. These “third places” are where we form and deepen friendships, worship and commune together, and otherwise engage in civic and community social life. Cafes, bars, and restaurants often serve as cultural touchstones, shaping our shared narratives both in real life and in popular culture, from Moe’s Tavern in The Simpsons to the breakfast diner in Seinfeld."
 
 # Summary. An optional shortened abstract.
 summary: " "
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -38,12 +38,12 @@ featured: false
 #   icon: twitter
 
 
-url_pdf: "/files/papers/wp_third_places2025.pdf"
+url_pdf: "/files/papers/third_places_choices2025.pdf"
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: "/files/slides/narsc24_slides.pdf"
+url_slides: 
 url_video:
 
 # Featured image
